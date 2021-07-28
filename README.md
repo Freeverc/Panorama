@@ -1,4 +1,4 @@
-# PanoramaInPython
+# Panorama
 A panorama generator based on SIFT in python
 ## Methods
 Cylined Projection
